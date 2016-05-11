@@ -1,0 +1,14 @@
+woman(1)                                                                    woman(1)
+
+NAME
+       trump - we know he's the ultimate misogynist
+
+SYNOPSIS
+       trump  
+
+DESCRIPTION
+       returns a portrait of trump with a wonderfully misogynistic quote in a quote
+       bubble.
+
+OPTIONS
+       -[] no options necessary

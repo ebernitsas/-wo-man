@@ -1,0 +1,27 @@
+woman(1)                                                                    woman(1)
+
+NAME
+       fire - fires employee
+
+SYNOPSIS
+       fire  [-r reason]  [-n name]  [-mn your name]  [-e email]
+
+DESCRIPTION
+       for people who have trouble being assertive, firing employees can be hard. 
+       select reasons, enter their email, and a template email with specified reaso-
+       ns will send.
+
+OPTIONS
+       -r  reason
+              If reason not included, one or more of the following can be used by t-
+              heir number.
+
+       -n  employee name
+              Dear [employee name], will be included in email.
+
+       -mn  name
+              Best, [name] will be included in email.
+
+       -e   email  
+              Address to send letter to.
+

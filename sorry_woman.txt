@@ -1,0 +1,17 @@
+woman(1)                                                                    woman(1)
+
+NAME
+       sorry - counts the number of times: sorry, I think, actually and just were s-
+       aid in your last 100 emails
+
+SYNOPSIS
+       sorry  [-[int] number of emails] 
+
+DESCRIPTION
+       with permission, goes through emails and counts number of sorry I think, act-
+       ually and just to inform user how autoritative/unauthoritative they are in 
+       emails.
+
+OPTIONS
+       -r[int] number of emails
+       

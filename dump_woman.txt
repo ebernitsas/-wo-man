@@ -1,0 +1,43 @@
+woman(1)                                                                    woman(1)
+
+NAME
+       dump - dumps parter via email
+
+SYNOPSIS
+       dump  [-r reason]  [-n name]  [-mn your name]  [-e email] [-sp power wheel]
+       [-sr abuse webpage]
+
+DESCRIPTION
+       takes information: reason, partner name, name and email and sends breakup em-
+       ail to specified parter.  default reasons include mostlu abusive reasons due 
+       to the known issue of women feelikg trapped in abusive relationships.
+
+OPTIONS
+       -r  reason
+              If reason not included, one or more of the following can be used by t-
+              heir number.
+
+       -n  partner name
+              Dear [partner name], will be included in email.
+
+       -mn  name
+              Best, [name] will be included in email.
+
+       -e   email  
+              Address to send letter to.
+
+       -sp  show power wheel
+              Shows wheel describing power struggles in abusive relationships.
+
+       -sr  show abusing reasons
+              Shows webpage describing the types of abuse specified in reasons.
+
+
+
+
+
+
+
+
+
+

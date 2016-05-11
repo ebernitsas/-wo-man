@@ -1,0 +1,78 @@
+woman(1)                                                                    woman(1)
+
+NAME
+       mmas - make me a sandwich
+
+SYNOPSIS
+       dump  [-gclub giand club]  [-sub 8" sub]  [-slim slim]  [+cuc cucumber] [+dm-
+       us dijon mustard]  [+jmus jimmy mustard]  [+pep peppers]  [+vin vinaigrette 
+       [+on onions]  [+or oregano]  [+spr sprouts]  [+avo avocado] [+bac bacon] [+rb
+       roast beef]  [+tuna tuna]  [+trk turkey]  [+chz cheese]  [+ham ham]  [+tom t-
+       omato]  [+mayo mayo]
+
+DESCRIPTION
+       create and order custom jimmy john's sandwich.  put the power of the sandwi-
+       ch in the hands of women.
+
+OPTIONS
+       -gclub giant club
+              select from giant clubs.
+
+       -sub   8" sub
+              select from 8" subs.
+
+       -slim  slim
+              select from slims.
+
+       -cuc   cucumber 
+              no cucumber, + to add.
+
+       -dmus  dijon mustard  
+              no dijon mustard, + to add.
+
+       -jmus  jimmy mustard
+              no jimmy mustard, + to add.
+
+       -pep   peppers 
+              no peppers, + to add.
+
+       -vin   italian vinaigrette 
+              no italian vinaigrette, + to add.
+
+       -on    onion
+              no onion, + to add.
+
+       -or    oregano
+              no oregano, + to add.
+
+       -spr   sprouts  
+              no sprouts, + to add.
+
+       -avo   avocado
+              no avocado, + to add.
+
+       -bac   bacon
+              no bacon, + to add.
+
+       -rb    roast beef
+              no roast beef, + to add.
+
+       -tuna  tuna
+              no tuna, + to add.
+
+       -trk   turkey
+              no turkey, + to add.
+
+       -chz   provolone cheese 
+              no provolone, + to add.
+
+       -ham   ham
+              no ham, + to add.
+
+       -tom   tomato
+              no tomato, + to add.
+
+       -mayo  mayo 
+              no mayo, + to add.
+
+

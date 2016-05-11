@@ -1,0 +1,53 @@
+woman(1)                                                                    woman(1)
+
+NAME
+       card - woman card
+
+SYNOPSIS
+       card  [-woman woman]  [-man man]  [-lat latino/hispanic]  [-ind american in-
+       dian]  [-bla african american]  [-pac pacific islander]  [-wh white]  [-asi asian american]  [-perks perks]  [-get buy card] 
+
+DESCRIPTION
+       if gender and ethnicity are specified, the number of cents on the dollar th-
+       at a person of that gender and ethnicity compared to a white male is printed.
+       'card' also shows the 'perks' or benefits of owning a woman card.  woman car-
+       ds can also be purchased through the link provided with '-get.'
+
+OPTIONS
+       -woman woman
+               specify gender as woman
+
+       -man   man
+               specify gender as man
+
+       -lat   hispanic/latino
+               specify ethnicity as hispanic/latino
+
+       -ind   indian american  
+               specify ethnicity as indian american
+
+       -bla   african american
+               specify ethnicity as african american
+
+       -pac   pacific islander
+               specify ethnicity as pacific islander
+
+       -wh    white  
+               specify ethnicity as white
+
+       -asi   asian american
+               specify ethnicity as asian american
+
+       -perks perks
+               print perks of owning a woman card
+
+       -get   get  
+               buy a woman card from Hillary Clinton's website
+
+
+
+
+
+
+
+
